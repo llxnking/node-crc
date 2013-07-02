@@ -13,7 +13,7 @@ The following functions are implemented:
     crcModbusString(string)  #=> Number
     crcModbusHex(Number)     #=> Number
     crc16(String)            #=> Number
-    crc16CCITT(String)       #=> Number
+    crc16CCITT(String)       #=> Number(this is currently not supported!)
     fcs16(String)            #=> Number
     crc32(String)            #=> Number
     hex8(Number)             #=> String
